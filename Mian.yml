@@ -1,0 +1,26 @@
+game:
+  name: Subscribe Game
+  platform: GitHub
+
+player:
+  channel: OpenAi
+  subscribe: 0
+
+video:
+  title: "Tên video"
+  quality: "720p"
+  views: 0
+  likes: 0
+  dislikes: 0
+  comments: 0
+
+features:
+  - Open Video 📂V
+  - Increase Views 👁️
+  - Like 👍🏻
+  - Dislike 👎🏻
+  - Random Quality 🎬 (360p - 4K)
+
+settings:
+  github_pages: true
+  file_main: index.html
